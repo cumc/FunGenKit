@@ -1,0 +1,2 @@
+- `nbdev_export` to export the code
+- `nbdev_test` to run all notebooks to test
